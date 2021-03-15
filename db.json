@@ -6,7 +6,7 @@
         "price": 29990,
         "rating": 4.889,
         "launch_date": "2021-10-10",
-        "desc": "The new iPad combines tremendous capability with unmatched ease of use and versatility. With the powerful A12 Bionic chip, support for Apple Pencil and the Smart Keyboard, and the amazing new things you can do with iPadOS 14, now there’s even more to love about iPad."
+        "desc": "The new iPad combines tremendous capability with unmatched ease of use and versatility."
     },
     {
         "id": 2,
@@ -14,7 +14,7 @@
         "price": 215999,
         "rating": 4.266,
         "launch_date": "2020-05-03",
-        "desc": "The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. Our most advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life — the longest of any Mac ever. It’s our most popular pro notebook, taken to a whole new level."
+        "desc": "The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief."
     }
   ]
 }
