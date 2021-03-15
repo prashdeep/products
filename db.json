@@ -15,30 +15,6 @@
         "rating": 4.266,
         "launch_date": "2020-05-03",
         "desc": "The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. Our most advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life — the longest of any Mac ever. It’s our most popular pro notebook, taken to a whole new level."
-    },    
-    {
-        "id": 3,
-        "name": "iPhone",
-        "price": 65000,
-        "rating": 4.698,
-        "launch_date": "2020-06-03",
-        "desc": "A14 Bionic, the fastest chip in a smartphone.An edge-to-edge OLED display. Ceramic Shield with four times better drop performance. And Night mode on every camera. iPhone 12 has it all — in two perfect sizes."
-    },    
-    {
-        "id": 4,
-        "name": "Galaxy-Note",
-        "price": 62000,
-        "rating": 4.558,
-        "launch_date": "2020-06-03",
-        "desc": "The first to merge a pen with a phone, Note put a whole new world in your pocket. As we face a new normal, life demands a new kind of device. This is not a smartphone as you know it. This is a computer suite in your pocket. This is next-level gaming on mobile. This is a pro-grade 8K camera and editing suite."
-    },
-    {
-        "id": 5,
-        "name": "Samsung Galaxy",
-        "price": 42000,
-        "rating": 4.558,
-        "launch_date": "2020-02-03",
-        "desc": "Galaxy A32's multi-lens camera system takes photos to the next level. Go ultra high-res on the 64MP Main Camera for crisp, clear photos throughout the day. Expand the viewing angle with Ultra Wide Camera. Customize focus with Depth Camera, or get closer to the details with Macro Camera."
     }
   ]
 }
